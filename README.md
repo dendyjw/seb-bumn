@@ -1,10 +1,10 @@
-# 🔐 Safe Exam Browser (SEB)
+# 🔐 Safe Exam Browser (SEB) versi Windows
 
 > **Mirror resmi dari software Safe Exam Browser sumber sourceforge**
 
 #### 📥 Unduh Disini 
-Miror link via [Google Drive](https://drive.google.com/drive/folders/1ys8x59-0H4mMUIZsEuQeqwQz1X-xU37v?usp=sharing) untuk menghindari lamanya pengunduhan dari SourceForge. <br>
-[Klik disini](https://drive.google.com/drive/folders/1ys8x59-0H4mMUIZsEuQeqwQz1X-xU37v?usp=sharing)
+Link download via [Github](https://github.com/SafeExamBrowser/seb-win-refactoring/releases/tag/v3.7.0) <br>
+Miror link via [Google Drive](https://drive.google.com/drive/folders/1ys8x59-0H4mMUIZsEuQeqwQz1X-xU37v?usp=sharing) <br>
 
 Sumber Sourceforge [Safe Exam Browser](https://sourceforge.net/projects/seb/files/seb/SEB_3.7.0/SEB_3.7.0.682_SetupBundle.exe/download)
 
